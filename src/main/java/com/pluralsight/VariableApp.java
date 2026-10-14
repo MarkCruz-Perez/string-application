@@ -1,7 +1,5 @@
 package com.pluralsight;
 
-import java.sql.SQLOutput;
-
 public class VariableApp {
 
 
@@ -38,9 +36,10 @@ public class VariableApp {
         char favoriteLetter = 'M';
         System.out.println("favorite letter is : " + favoriteLetter);
 
-        //4. Whether it's raining (true/false)
+        //4. Whether its raining (true/false)
         boolean raining = false;
         System.out.println("Is it raining? " + raining);
+
 
 
 
