@@ -11,7 +11,7 @@ public class Receipt {
 
         //without formatted string
         System.out.println("You bought " + itemName + " " + itemPrice + " " + quantity);
-
+h
 
         System.out.println();
 
